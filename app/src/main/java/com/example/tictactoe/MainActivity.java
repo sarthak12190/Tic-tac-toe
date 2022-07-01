@@ -8,7 +8,6 @@ import android.widget.ImageView;
 import android.widget.TextView;
 //changed
 //done
-//ok
 
 public class MainActivity extends AppCompatActivity {
     boolean gameactive = true;
