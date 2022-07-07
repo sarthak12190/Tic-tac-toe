@@ -7,6 +7,8 @@ import android.view.View;
 import android.widget.ImageView;
 import android.widget.TextView;
 
+//done
+
 public class MainActivity extends AppCompatActivity {
     boolean gameactive = true;
     //player representation
